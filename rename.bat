@@ -1,0 +1,1 @@
+xcopy *.txt *.js
